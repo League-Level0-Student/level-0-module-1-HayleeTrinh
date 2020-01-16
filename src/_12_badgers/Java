@@ -1,0 +1,60 @@
+package _12_badgers;
+
+public class badger {
+	public static void main(String[] args) {
+	for (int i = 0; i < 12; i++) {
+		System.out.println("Badger");
+	}
+	for (int i = 0; i < 2; i++) {
+		System.out.println("Mushroom");
+	}
+	System.out.println("A");
+	for (int i = 0; i < 11; i++) {
+		System.out.println("Badger");
+	}
+	for (int i = 0; i < 2; i++) {
+		System.out.println("Mushroom");
+	}
+	System.out.println("A");
+	for (int i = 0; i < 11; i++) {
+		System.out.println("Badger");
+	}
+	System.out.println("Mush-Mushroom");
+	System.out.println("A");
+	for (int i = 0; i < 11; i++) {
+		System.out.println( "Badger");
+	}
+	for (int i = 0; i < 2; i++) {
+		System.out.println("A snake");
+	}
+	System.out.println("Snaaake");
+	System.out.println("A snaaaake");
+	System.out.println("Oooh, it's a snake");
+	for (int i = 0; i < 2; i++) {
+		System.out.println("It's a");
+	for (int v = 0; v < 12; v++) {
+		System.out.println("Badger");
+	}
+	for (int v = 0; v < 2; v++) {
+		System.out.println("Mushroom");
+	}
+	for (int v = 0; v < 12; v++) {
+		System.out.println("Badger");
+	}
+		System.out.println("Mush-Mushroom");
+	System.out.println("A");
+	for (int v = 0; v < 11; v++) {
+		System.out.println("Badger");
+	}
+	System.out.println("Snaaake");
+	System.out.println("A snaaaake");
+	System.out.println("Oooh, it's a snake");
+	}
+	for (int i = 0; i < 12; i++) {
+		System.out.println("Badger");
+	}
+	for (int i = 0; i < 2; i++) {
+		System.out.println("Mushroom");
+	}
+}
+}
